@@ -1,0 +1,4 @@
+decoder 
+Signal pin = d2
+vcc = 3.3v
+gnd = gnd
