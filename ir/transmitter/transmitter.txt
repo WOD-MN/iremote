@@ -1,0 +1,14 @@
+transmitter
+
+*IR led
+gnd = gnd
+ VCC = D3
+
+* ON BTN
+1A = GND
+2A = D6
+
+* OFF BTN
+
+1A = GND
+2A = D7
